@@ -9,4 +9,5 @@ I heavily recommend the dip! :D
 To-do:
 
 - Add CSS styling
-- Reactive JS
+- Reactive Elements
+- JavaScript
