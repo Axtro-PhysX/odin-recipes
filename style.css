@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: darkslategray;
+    color: blanchedalmond;
+}
+
+.mainHeader {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+div.list {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+}
+
+ol.myOL {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+}
+
+.description {
+    font-size: 32px;
+}
+
+.initialRecipes {
+    font-size: 28px;
+}
+
+.ingredients {
+    font-size: 28px;
+}
+
+.steps {
+    list-style: inside;
+    font-size: 32px;
+}
